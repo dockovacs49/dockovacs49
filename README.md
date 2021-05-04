@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dockovacs49
-- 👀 I’m interested in new cloud technologies
+- 👀 I’m interested in cloud technologies
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on kubernetes
 - 📫 How to reach me ...dockovacs49@yahoo.com
